@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.cuerpo{
+    height: 1000px;
+}
+.menu{
+    background-color: rgb(139, 62, 62);
+    box-shadow: 0.1px 0.1px 20px 1px black inset;
+    height: 100%;
+    position:relative;
+}
+.principal{
+    background-color: aliceblue;
+}
