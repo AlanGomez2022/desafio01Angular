@@ -1,0 +1,24 @@
+.titulos{
+    font-family: "Graduate", serif;
+    font-weight: 400;
+    font-style: normal;
+    box-sizing: border-box;
+    text-align: center;
+
+}
+#botones{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.boton{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+.presente{
+    background-color: greenyellow;
+}
+.ausente{
+    background-color: red;
+}
